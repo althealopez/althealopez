@@ -5,6 +5,7 @@
 - 📫 How to reach me altheagwennlopez@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love planning surprise events and have a knack for remembering important dates!
+- 🖐🏻 Portfolio: https://althealopez.my.canva.site/portfolio
 
 <!---
 althealopez/althealopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
